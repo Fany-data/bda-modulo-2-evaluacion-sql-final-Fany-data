@@ -3,7 +3,7 @@
 
 ## Descripción General
 
-Esta evaluación final tiene como objetivo poner en práctica los conocimientos adquiridos en el Módulo 2 del curso de Analista de Datos, enfocados en SQL bases de datos y manejo de APIs**. 
+Esta evaluación final tiene como objetivo poner en práctica los conocimientos adquiridos en el Módulo 2 del curso de Analista de Datos, enfocados en SQL bases de datos y manejo de APIs. 
 Este proyecto se divide en cuatro fases principales: extracción de datos, modelado de base de datos, análisis mediante SQL y visualización de resultados.
 
 ---
