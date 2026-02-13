@@ -20,7 +20,7 @@ El ejercicio consta de dos fases:
 ## Fase 2: Consultas sobre la base de datos Sakila
 
    - Se trabaja con las tablas `film`, `actor`, `customer`, `rental` y `category`.
-   - Se practican consultas de selección, filtros, agregaciones, joins.
+   - Se practican consultas para la realización de los ejercicios.
    - Los ejercicios incluyen conteo de películas por clasificación, promedio de duración, listado de actores en una película, y cantidad de películas alquiladas por cliente o categoría.
 
 ---
@@ -35,7 +35,8 @@ https://classroom.github.com/assignment-invitations/bef0e2334d5cc2da6bb9709ab2a1
 ## Instrucciones de uso
 
 1. Clona el repositorio
-2. Ejecuta los archivos 
+2. Ejecuta los archivos en su programa según su lenguaje.
+3. Ejecutas los códigos.
 
 ---
 
@@ -43,12 +44,10 @@ https://classroom.github.com/assignment-invitations/bef0e2334d5cc2da6bb9709ab2a1
 ---
 bda-modulo-2-evaluacion-sql-final-Fany-data
 
-evaluacion_modulo2/
 │
 ├── README.md
 ├── Ejercicio1_BBDD_API.ipynb # Notebook de extracción y carga de la API
 ├── Ejercicio2_BBDD_Sakila.sql # Consultas SQL sobre la base de datos Sakila
-
 
 ---
 
