@@ -7,6 +7,8 @@ Esta evaluación final tiene como objetivo poner en práctica los conocimientos 
 Este proyecto se divide en dos fases principales: extracción de datos, modelado de base de datos, análisis mediante SQL y visualización de resultados.
 
 ---
+
+
 El ejercicio consta de dos fases:
 
 ## Fase 1: Creación de una base de datos de películas a partir de una API
@@ -17,20 +19,26 @@ El ejercicio consta de dos fases:
 
 ---
 
+
 ## Fase 2: Consultas sobre la base de datos Sakila
 
    - Se trabaja con las tablas `film`, `actor`, `customer`, `rental` y `category`.
    - Se practican consultas para la realización de los ejercicios.
    - Los ejercicios incluyen conteo de películas por clasificación, promedio de duración, listado de actores en una película, y cantidad de películas alquiladas por cliente o categoría.
 
+
 ---
+
 
 ## Tecnologías Utilizadas
 
 https://beta.adalab.es/resources/apis/pelis/pelis.json
+
 https://classroom.github.com/assignment-invitations/bef0e2334d5cc2da6bb9709ab2a125df/status
 
+
 ---
+
 
 ## Instrucciones de uso
 
@@ -38,28 +46,32 @@ https://classroom.github.com/assignment-invitations/bef0e2334d5cc2da6bb9709ab2a1
 2. Ejecuta los archivos en su programa según su lenguaje.
 3. Ejecutas los códigos.
 
----
+
+```
+
 
 ## Estructura del repositorio
----
-bda-modulo-2-evaluacion-sql-final-Fany-data
 
+bda-modulo-2-evaluacion-sql-final-Fany-data/
 │
-├── README.md
+├── README.md 
 ├── Ejercicio1_BBDD_API.ipynb # Notebook de extracción y carga de la API
 ├── Ejercicio2_BBDD_Sakila.sql # Consultas SQL sobre la base de datos Sakila
 
----
+
+```
 
 ## Autora
 
 [Estefanía Moreno Delmo](https://github.com/fany-data)
+
 
 ---
 
 ## Estado del proyecto
 
 Finalizado
+
 ---
 
 
